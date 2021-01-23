@@ -14,14 +14,14 @@ You can download the **Android App** for your device from **Releases** tab or by
 ## Screenshots
 #### Light Theme
 <p float="left">
-    <img src=".github/images/light_home_activity.png" width="200" alt="light_home_activity"/>
-    <img src=".github/images/light_update_result_activity.png" width="200" alt="light_update_result_activity"/>
+    <img src=".github/images/light_home_activity.png" width="150" alt="light_home_activity"/>
+    <img src=".github/images/light_update_result_activity.png" width="150" alt="light_update_result_activity"/>
 </p>
 
 #### Dark Theme
 <p float="left">
-    <img src=".github/images/dark_home_activity.png" width="200" alt="dark_home_activity"/>
-    <img src=".github/images/dark_update_result_activity.png" width="200" alt="dark_update_result_activity"/>
+    <img src=".github/images/dark_home_activity.png" width="150" alt="dark_home_activity"/>
+    <img src=".github/images/dark_update_result_activity.png" width="150" alt="dark_update_result_activity"/>
 </p>
 
 ## Issues/Feature Requests
